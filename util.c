@@ -10,7 +10,7 @@
 
 #include "config.h"
 
-// added by hoffer
+// modified by hoffer
 
 #include <stdio.h>
 #include <stdlib.h>
